@@ -1,6 +1,6 @@
 # FinalProject. --Zhengjia Lu
 
-## MTH9815 A Trading SysTem
+## MTH9815 A Trading System
 
 
 run following code in terminal:
